@@ -41,7 +41,7 @@ The models were evaluated based on metrics such as accuracy, precision, recall, 
 
 ## Dependencies
 - Python 3.x
-- Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Joblib
 - Jupyter Notebook
 
 Install dependencies using:
