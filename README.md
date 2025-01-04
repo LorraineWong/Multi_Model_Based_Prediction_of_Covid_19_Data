@@ -1,5 +1,3 @@
-# Multi_Model_Based_Prediction_of_Covid_19_Data
-
 ## Overview
 This repository contains the implementation of a group project for the course **WQD7003 - Data Science Project**. The aim of this project is to predict COVID-19 trends using multiple machine learning models. The project follows the CRISP-DM methodology and includes detailed data preprocessing, exploratory data analysis, model implementation, and result evaluation.
 
